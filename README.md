@@ -32,17 +32,17 @@ screen.
 
 ===========================================================================
 
-#Songlist
+# Songlist
 Contains a simple text file that pulls in others songs needed
 for the Jukebox to function.
 
-#Songs
+# Songs
 Holds the different audio files that make up the Jukebox.
 
-#Sprites
+# Sprites
 Contains the different spritesheets that the Jukebox needs.
 
 ===========================================================================
 
-#Lib
+# Lib
 Contains the various jar files needed to read the song data.
